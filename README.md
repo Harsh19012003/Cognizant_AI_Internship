@@ -55,9 +55,8 @@ Working with actual customer data exposed me to the challenges of data quality, 
 
 ## Tech Stack  🛠️
 
-**Client:** React, Redux, TailwindCSS
+**Client:** Juypiter Notebook, Python, Sci-kit learn, numpy, pandas, matplotlib
 
-**Server:** Node, Express
 
 
 ## Developed For 👨‍💻
